@@ -1,9 +1,9 @@
 {
   "name": "auto-user-commit",
   "displayName": "Auto User Commit",
-  "description": "Change automaticly the git account information while commiting",
+  "description": "Change automatically the git account information while commiting",
   "publisher": "ViorityGroup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://tuncion.de",
   "icon": "assets/images/logo.jpg",
   "license": "MIT",
